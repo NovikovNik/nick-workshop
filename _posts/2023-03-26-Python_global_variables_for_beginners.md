@@ -1,7 +1,9 @@
+---
 layout: post
-title: "PYthon: Глобальные переменные (Beginner level)"
+title: "Python: Глобальные переменные (Beginner level)"
 date: 2023-03-22 21:54:50 -0000
 categories: PYTHON
+---
 
 ### Глобальные переменные Python (Beginner level)
 
