@@ -1,4 +1,4 @@
 ---
-title: Nikolai Novikov: Workshop
+title: Nikolai Novikov — Workshop
 ---
 
